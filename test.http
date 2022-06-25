@@ -1,0 +1,10 @@
+
+GET http://localhost
+
+### POST....
+POST http://localhost/
+content-type: application/json
+
+{
+    "demo": "local value:
+}
